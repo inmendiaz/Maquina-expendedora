@@ -1,0 +1,11 @@
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csproj.AssemblyReference.cache
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csproj.SuggestedBindingRedirects.cache
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina_Expendedora.Form1.resources
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina_Expendedora.Properties.Resources.resources
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csproj.GenerateResource.cache
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csproj.CoreCompileInputs.cache
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.exe.config
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.exe
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.pdb
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.exe
+C:\Users\ingri\Desktop\UNIVERSIDAD\PROGRA\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.pdb
